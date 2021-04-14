@@ -12,12 +12,16 @@ NEMA 17 Stepper Motor | 1
 T Nut and Bolt | 6
 Threaded Rod | 1
 
-## 3D Printed Parts
+# 3D Printed Parts
 
-# Mount
+## Mount
 
-# Plunger Driver
+## Plunger Driver
 
-# Syringe Barrell Holder
+## Syringe Barrell Holder
 
-# Syringe Tip Holder
+## Syringe Tip Holder
+
+# Fusion 360 Model
+
+<iframe src="https://vanderbilt422.autodesk360.com/shares/public/SH56a43QTfd62c1cd968334c59b05803075a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>

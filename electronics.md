@@ -14,4 +14,4 @@
 
 ## My running Syringe Pump!
 
-![Pump Running](Syringe-Pump/Assembly Pictures/20210408_102127.mp4)
+![Pump Running](Syringe-Pump/Assembly_Pictures/20210408_102127.mp4)

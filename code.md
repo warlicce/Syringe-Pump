@@ -2,8 +2,7 @@
 
 ## The following code was used to instruct the stepper motor on its movements for the syringe pump. 
 
-'''
-
+```
 // Include the AccelStepper Library
 #include <AccelStepper.h>
 
@@ -34,4 +33,4 @@ void loop() {
 	// Move the motor one step
 	myStepper.run();
 }
-'''
+```

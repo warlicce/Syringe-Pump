@@ -32,7 +32,17 @@ Item         | Quantity
 
 ## Build with Me!
 
-I started by feeding the linear and threaded rods through my Syringe Tip Holder and Syringe Barrell Holder, and then I screwed the Syringe Tip Holder into place o. 
+I started by feeding the linear and threaded rods through my Syringe Tip Holder and Syringe Barrell Holder, and then I screwed the Syringe Tip Holder into place on the Aluminum Extrusion.
+
+![Assembly 1](Syringe-Pump/Assembly Pictures/20210406_100512.jpg)
+
+The threaded rod and hex nut were configured into the plunger driver, and the linear rod was fixed into the linear bearing on the plunger driver. The mount was screwed into the aluminum extrusion and the NEMA 17 stepper motor was connected to the mount. This was the syringe pump put together!
+
+![Assembly 1](Syringe-Pump/Assembly Pictures/20210406_102316.jpg)
+
+From there I started wiring my breadboard, which you can see more of under the electronics section.
+
+![Assembly 1](Syringe-Pump/Assembly Pictures/20210406_105303.jpg)
 
 
 

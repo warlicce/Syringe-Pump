@@ -6,7 +6,7 @@
 
 ## Diagram of Wiring from Lecture
 
-![Electronics Image](Syringe-Pump/pptschematic.png)
+![Electronics PPT Schematic](Syringe-Pump/pptschematic.png)
 
 ## Image of my arudino and breadboard wiring
 

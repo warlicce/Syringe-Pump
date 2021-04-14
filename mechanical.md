@@ -29,3 +29,10 @@ Item         | Quantity
 ## Fusion 360 Model
 
 <iframe src="https://vanderbilt422.autodesk360.com/shares/public/SH56a43QTfd62c1cd968334c59b05803075a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Build with Me!
+
+I started by feeding the linear and threaded rods through my Syringe Tip Holder and Syringe Barrell Holder, and then I screwed the Syringe Tip Holder into place o. 
+
+
+

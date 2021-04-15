@@ -2,7 +2,7 @@
 
 ## Schematic of how the arduino, breadboard, motor, and power will connect.
 
-![Electronics Schematic](/Syringe-Pump/Electronics-Schematic.png)
+![Electronics Schematic](/Syringe-Pump/Electronics_Schematic.png)
 
 ## Diagram of Wiring from Lecture
 
@@ -10,7 +10,7 @@
 
 ## Image of my arudino and breadboard wiring
 
-![Electronics Image](/Syring-Pump/Electronics-Image.png)
+![Electronics Image](/Syring-Pump/Electronics_Image.png)
 
 ## My running Syringe Pump!
 

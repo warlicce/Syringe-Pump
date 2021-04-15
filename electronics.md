@@ -10,7 +10,7 @@
 
 ## Image of my arudino and breadboard wiring
 
-![Electronics Image](/Syring-Pump/sp/ei.png)
+![Electronics Image](/Syringe-Pump/sp/ei.png)
 
 ## My running Syringe Pump!
 
